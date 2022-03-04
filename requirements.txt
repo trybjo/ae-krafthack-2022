@@ -5,9 +5,11 @@ scikit-learn
 scipy
 #Plotting
 matplotlib
-plotly 
+plotly
+nbformat 
 seaborn
 #Notebooks
+ipykernel
 jupyter
 jupyterlab
 #Docs

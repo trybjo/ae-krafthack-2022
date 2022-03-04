@@ -4,7 +4,7 @@
 
     ├── requirements.txt      <- The requirements for reproducing the test environment
     ├── pipelines.py          <- The CLI entry point for all the pipelines
-    ├── <repo_name>           <- Code for the various steps of the pipelines
+    ├── ae_krafthack_2022           <- Code for the various steps of the pipelines
         ├──  __init__.py
         ├── etl.py            <- Download, generate, and process data
         ├── visualize.py      <- Create exploratory and results oriented visualizations

@@ -6,9 +6,14 @@ AE's contribution to KraftHack 2022
 ## Getting started
 Enter the project folder, create a virtual environment and activate:
 ```
-    py -3.9 -m venv .venv
-    .venv\Scripts\activate
-    pip install -r requirements.txt
+py -3.9 -m venv .venv
+.venv\Scripts\activate
+py -m pip install --upgrade pip
+```
+If having a pip.ini with local pip feed, please install keyring and artifacts-keyring before installing requirements:
+````
+pip install keyring artifacts-keyring
+pip install -r requirements.txt
 ```
 
 ## Documentation
