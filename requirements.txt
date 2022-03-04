@@ -1,0 +1,17 @@
+# requirements.txt
+pandas
+numpy
+scikit-learn 
+scipy
+#Plotting
+matplotlib
+plotly 
+seaborn
+#Notebooks
+jupyter
+jupyterlab
+#Docs
+sphinx
+sphinx-rtd-theme
+m2r2
+
