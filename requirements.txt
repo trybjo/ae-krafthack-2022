@@ -3,6 +3,7 @@ pandas
 numpy
 scikit-learn 
 scipy
+hdbscan
 #Plotting
 matplotlib
 plotly
@@ -12,6 +13,8 @@ seaborn
 ipykernel
 jupyter
 jupyterlab
+#Dataprep 
+dataprep
 #Docs
 sphinx
 sphinx-rtd-theme
