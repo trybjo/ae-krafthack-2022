@@ -4,6 +4,8 @@ numpy
 scikit-learn 
 scipy
 hdbscan
+pyarrow
+tensorflow
 #Plotting
 matplotlib
 plotly
@@ -15,6 +17,7 @@ jupyter
 jupyterlab
 #Dataprep 
 dataprep
+ae-adx-client
 #Docs
 sphinx
 sphinx-rtd-theme
