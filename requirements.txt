@@ -1,0 +1,25 @@
+# requirements.txt
+pandas
+numpy
+scikit-learn 
+scipy
+hdbscan
+pyarrow
+tensorflow
+#Plotting
+matplotlib
+plotly
+nbformat 
+seaborn
+#Notebooks
+ipykernel
+jupyter
+jupyterlab
+#Dataprep 
+dataprep
+ae-adx-client
+#Docs
+sphinx
+sphinx-rtd-theme
+m2r2
+

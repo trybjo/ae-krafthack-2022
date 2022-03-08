@@ -1,0 +1,1 @@
+.. mdinclude:: ../model_inference/README.md
